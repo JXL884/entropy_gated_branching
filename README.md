@@ -1,5 +1,7 @@
 # Entrpy-gated-branching
 
+## fIXING REPO IN PROGRESS
+
 Heavily altered fork of [xjdr's entropix project](https://github.com/xjdr-alt/entropix). Thanks to [Sinatras & citizenhicks smolLM implementation](https://github.com/SinatrasC/entropix-smollm) for the basis of the visualizations.
 
 Supports `llama` and `smollm` models & easy to add more.
