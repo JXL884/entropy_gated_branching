@@ -9,6 +9,8 @@ Code for the paper:
 ## Overview
 
 **Entropy-Gated Branching (EGB)** improves test-time reasoning efficiency by branching only at *high-uncertainty* steps, as measured by token-level entropy. At low-entropy (confident) steps, the model continues along a single path; at high-entropy (uncertain) steps, it expands into multiple candidate branches and uses a Process Reward Model (PRM) to prune them. This achieves **22.6% accuracy improvement** over standard inference while being **31–75% faster** than standard beam search on mathematical reasoning benchmarks.
+<img width="2041" height="1195" alt="image" src="https://github.com/user-attachments/assets/69168e5e-1d82-47f3-946e-f16ab6e77cc1" />
+
 
 ## Setup
 
