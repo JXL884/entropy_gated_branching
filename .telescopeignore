@@ -1,0 +1,5 @@
+entropix.egg%-info
+.git
+.venv
+.direnv
+build/
